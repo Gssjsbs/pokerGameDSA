@@ -37,8 +37,8 @@ NOTE: this program is not yet perfected, and any modifications that will help th
       Make the program available to multiple devices at once
 
 ## Developers
-Mann Lester Magbuhos\n
-Diomael Lecaroz\n
-Jett Mark Manalo\n
+Mann Lester Magbuhos  
+Diomael Lecaroz  
+Jett Mark Manalo  
 //anyone who contributes to the betterment of this program is welcome to add their name
 
